@@ -1,0 +1,15 @@
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.csproj.AssemblyReference.cache
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.AssemblyInfoInputs.cache
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.AssemblyInfo.cs
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.csproj.CoreCompileInputs.cache
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\bin\Debug\net6.0\number analyzer.exe
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\bin\Debug\net6.0\number analyzer.deps.json
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\bin\Debug\net6.0\number analyzer.runtimeconfig.json
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\bin\Debug\net6.0\number analyzer.dll
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\bin\Debug\net6.0\number analyzer.pdb
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.dll
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\refint\number analyzer.dll
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.pdb
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\number analyzer.genruntimeconfig.cache
+C:\Users\shane\Desktop\Random Code\number analyzer\number analyzer\obj\Debug\net6.0\ref\number analyzer.dll
